@@ -537,36 +537,36 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
  ִ۫ ꯭𓈒🧺 *𝐔ρ𝗍𝗂ꭑ𝖾 :* ${muptime}
  ִ۫ ꯭𓈒🧺 *𝐃α𝗍αᑲα𝗌𝖾:*  ${totalreg}
 ╰──────────⳹
-> © Guru Sensei\n\n
+> © 𝐅𝖾ᥣ𝗂𝗑 𝐍ααꭑ 𝐓ⱺɦ 𝐒υ𐓣α 𝐇𝗂 𝐇ⱺ𝗀α\n\n
 ${readMore}
  ִ۫ ꯭𓈒🧺 *𝕴 𝕹 𝕱 𝕺 𝕮 𝕸 𝕯*  ִ۫ ꯭𓈒🧺
-│ *${totalfeatures}* Commands
+│ *${totalfeatures}* 𝕮᥆mmᥲᥒძs
 ╰──────────⳹
      
 
-乂───『 *INFO*』───乂 
-│*Reply with the number*
-│ to get respected Menu*
+ ִ۫ ꯭𓈒🧺 *𝕯ᥱ𝗍ᥲіᥣs*  ꯭𓈒🧺
+│ *𝐑𝖾ρᥣ𝗒 𝐖𝗂𝗍ɦ 𝐓ɦ𝖾 𝐍υꭑᑲ𝖾𝗋*
+│ *𝐓ⱺ 𝐆𝖾𝗍 𝐓ɦ𝖾 𝐑𝖾𝗌ρ𝖾𝖼𝗍𝖾ᑯ 𝐌𝖾𐓣υ*
 ╰───────⳹
 ╭───────⳹
-│ *1.* Bot Menu
-│ *2.* Owner Menu
-│ *3.* Group Menu
-│ *4.* Fun Menu
-│ *5.* Reaction Menu
-│ *6.* Downloader Menu
-│ *7.* Game Menu
-│ *8.* Logo Menu
-│ *9.* Sticker Menu
-│ *10.* Audio Menu
-│ *11.* News Menu
-│ *12.* Economy Menu
-│ *13.* Anime Menu
-│ *14.* NSFW Menu
-│ *15.* Tools Menu
-│ *16.* AI Menu
-│ *17.* Religion Menu
-│ *18.* Plugin Menu
+│ *1.* 𝐁ⱺ𝗍 𝐌𝖾𐓣υ 
+│ *2.* 𝐎ω𐓣𝖾𝗋 𝐌𝖾𐓣υ 
+│ *3.* 𝐆𝗋ⱺυρ 𝐌𝖾𐓣υ 
+│ *4.* 𝐅υ𐓣 𝐌𝖾𐓣υ 
+│ *5.* 𝐑𝖾α𝖼𝗍𝗂ⱺ𐓣 𝐌𝖾𐓣υ 
+│ *6.* 𝐃ⱺω𐓣ᥣⱺαᑯ 𝐌𝖾𐓣υ 
+│ *7.* 𝐆αꭑ𝖾 𝐌𝖾𐓣υ 
+│ *8.* 𝐋ⱺ𝗀ⱺ 𝐌𝖾𐓣υ 
+│ *9.* 𝐒𝗍𝗂𝖼𝗄𝖾𝗋 𝐌𝖾𐓣υ 
+│ *10.* 𝐀υᑯ𝗂ⱺ 𝐌𝖾𐓣υ 
+│ *11.* 𝐍𝖾ω𝗌 𝐌𝖾𐓣υ 
+│ *12.* 𝐄𝖼ⱺ𐓣ⱺꭑ𝗒 𝐌𝖾𐓣υ 
+│ *13.* 𝐀𐓣𝗂ꭑ𝖾 𝐌𝖾𐓣υ 
+│ *14.* 𝐍𝗌𝖿ω 𝐌𝖾𐓣υ 
+│ *15.* 𝐓ⱺⱺᥣ𝗌 𝐌𝖾𐓣υ 
+│ *16.* 𝐀𝗂 𝐌𝖾𐓣υ 
+│ *17.* 𝐑𝖾ᥣ𝗂𝗀𝗂ⱺ𐓣 𝐌𝖾𐓣υ
+│ *18.* 𝐏ᥣυ𝗀𝗂𐓣 𝐌𝖾𐓣υ 
 ╰───────⳹
  `
   const { result, key, timeout } = await conn.sendMessage(
