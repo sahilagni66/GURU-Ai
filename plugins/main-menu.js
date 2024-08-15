@@ -513,33 +513,33 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
     },
   }
   const infoText = `
- ||   श्री   ||
+ ||   𝐅𝖾ᥣ𝗂𝗑   ||
 > ${botname}  」\n
-- Hii ${name} Senpai
+- 𝐇𝖾ᥣᥣⱺ ${name} 𝕾ᥱᥒ⍴ᥲі
     
 - *${ucpn}* 
    
-乂───『 *U S E R*』───乂
-⛥ *Name:* ${name}
-⛥ *Gold:* ${credit}
-⛥ *Role:* ${role}
-⛥ *Level:* ${level}
-⛥ *Xp:* ${exp}
+ㅤ| ᷼͝⃞ᩙ |ᩙᬉׄ| ᷼͝⃞ᩙ |ᩙᬉׄ *𝖀 𝕾 𝕰 𝕽* | ᷼͝⃞ᩙ |ᩙᬉׄ| ᷼͝⃞ᩙ |ᩙᬉׄ
+✿゙ ⃞🏴‍☠️‌ *𝐍αꭑ𝖾:* ${name}
+✿゙ ⃞🏴‍☠️‌ *𝐆ⱺᥣᑯ:* ${credit}
+✿゙ ⃞🏴‍☠️‌ *𝐑ⱺᥣ𝖾:* ${role}
+✿゙ ⃞🏴‍☠️‌ *𝐋𝖾𝗏𝖾ᥣ :* ${level}
+✿゙ ⃞🏴‍☠️‌ *𝐗ρ:* ${exp}
 ╰──────────⳹
    
-乂───『 *I N F O*』───乂
-⛥ *Bot Name:* ${botname}
-⛥ *Mode:* ${mode}
-⛥ *Platform:* ${platform}
-⛥ *Type:* NodeJs
-⛥ *Baileys:* Multi Device
-⛥ *Prefix:* [ *${usedPrefix}* ]
-⛥ *Uptime:* ${muptime}
-⛥ *Database:*  ${totalreg}
+ㅤ| ᷼͝⃞ᩙ |ᩙᬉׄ| ᷼͝⃞ᩙ |ᩙᬉׄ *𝕴 𝕹 𝕱 𝕺* ㅤ| ᷼͝⃞ᩙ |ᩙᬉׄ| ᷼͝⃞ᩙ |ᩙᬉׄ
+ ִ۫ ꯭𓈒🧺 *𝐁ⱺ𝗍 𝐍αꭑ𝖾:* ${botname}
+ ִ۫ ꯭𓈒🧺 *𝐌ⱺᑯ𝖾:* ${mode}
+ ִ۫ ꯭𓈒🧺 *𝐏ᥣα𝗍𝖿ⱺ𝗋ꭑ :* ${platform}
+ ִ۫ ꯭𓈒🧺 *𝐓𝗒ρ𝖾:* NodeJs
+ ִ۫ ꯭𓈒🧺 *𝐁α𝗂ᥣ𝖾𝗒'𝗌 :* Multi Device
+ ִ۫ ꯭𓈒🧺 *𝐏𝗋𝖾𝖿𝗂𝗑:* [ *${usedPrefix}* ]
+ ִ۫ ꯭𓈒🧺 *𝐔ρ𝗍𝗂ꭑ𝖾 :* ${muptime}
+ ִ۫ ꯭𓈒🧺 *𝐃α𝗍αᑲα𝗌𝖾:*  ${totalreg}
 ╰──────────⳹
 > © Guru Sensei\n\n
 ${readMore}
-乂───『 *I N F O  C M D*』───乂 
+ ִ۫ ꯭𓈒🧺 *𝕴 𝕹 𝕱 𝕺 𝕮 𝕸 𝕯*  ִ۫ ꯭𓈒🧺
 │ *${totalfeatures}* Commands
 ╰──────────⳹
      
